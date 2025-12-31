@@ -1,0 +1,55 @@
+{
+  "_version" : "2.0.0",
+  "_songSampleCount" : 11622211,
+  "_songFrequency" : 44100,
+  "_regions" : [
+    {
+      "_startSampleIndex" : 0,
+      "_endSampleIndex" : 3385020,
+      "_startBeat" : 0,
+      "_endBeat" : 163.75
+    },
+    {
+      "_startSampleIndex" : 3385020,
+      "_endSampleIndex" : 4010100,
+      "_startBeat" : 163.75,
+      "_endBeat" : 194
+    },
+    {
+      "_startSampleIndex" : 4010100,
+      "_endSampleIndex" : 4051606,
+      "_startBeat" : 194,
+      "_endBeat" : 196
+    },
+    {
+      "_startSampleIndex" : 4051606,
+      "_endSampleIndex" : 5028590,
+      "_startBeat" : 196,
+      "_endBeat" : 244
+    },
+    {
+      "_startSampleIndex" : 5028590,
+      "_endSampleIndex" : 6351590,
+      "_startBeat" : 244,
+      "_endBeat" : 308
+    },
+    {
+      "_startSampleIndex" : 6351590,
+      "_endSampleIndex" : 7002913,
+      "_startBeat" : 308,
+      "_endBeat" : 340
+    },
+    {
+      "_startSampleIndex" : 7002913,
+      "_endSampleIndex" : 8325913,
+      "_startBeat" : 340,
+      "_endBeat" : 404
+    },
+    {
+      "_startSampleIndex" : 8325913,
+      "_endSampleIndex" : 11622211,
+      "_startBeat" : 404,
+      "_endBeat" : 565.949646
+    }
+  ]
+}
