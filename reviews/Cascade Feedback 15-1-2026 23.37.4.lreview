@@ -1,0 +1,81 @@
+{
+  "SongName": "Cascade",
+  "SubName": "",
+  "SongAuthor": "Kubbi",
+  "Creator": "ben208",
+  "SongLength": 263.542,
+  "ReviewType": 0,
+  "FileVersion": "0.1.2",
+  "LastEdited": "2026-01-15T23:37:04.4309703Z",
+  "Criteria": {
+    "SongName": 2,
+    "SubName": 2,
+    "SongAuthor": 2,
+    "Creator": 2,
+    "Offset": 2,
+    "BPM": 2,
+    "DifficultyOrdering": 2,
+    "Preview": 2
+  },
+  "DifficultyReviews": [
+    {
+      "DifficultyCharacteristic": "Standard",
+      "Difficulty": "ExpertPlus",
+      "DifficultyRank": 9,
+      "Comments": [],
+      "Critera": {
+        "HotStart": 2,
+        "ColdEnd": 2,
+        "MinSongDuration": 2,
+        "Outside": 2,
+        "ProlongedSwing": 2,
+        "VisionBlock": 2,
+        "Parity": 2,
+        "Chain": 2,
+        "FusedObject": 2,
+        "Loloppe": 2,
+        "HandClap": 2,
+        "SwingPath": 2,
+        "Hitbox": 2,
+        "Slider": 2,
+        "Wall": 2,
+        "Light": 2,
+        "DifficultyLabelSize": 2,
+        "DifficultyName": 2,
+        "Requirement": 2,
+        "NJS": 2
+      },
+      "OverallComment": null
+    },
+    {
+      "DifficultyCharacteristic": "Standard",
+      "Difficulty": "Expert",
+      "DifficultyRank": 7,
+      "Comments": [],
+      "Critera": {
+        "HotStart": 2,
+        "ColdEnd": 2,
+        "MinSongDuration": 2,
+        "Outside": 2,
+        "ProlongedSwing": 2,
+        "VisionBlock": 2,
+        "Parity": 2,
+        "Chain": 2,
+        "FusedObject": 2,
+        "Loloppe": 2,
+        "HandClap": 2,
+        "SwingPath": 2,
+        "Hitbox": 2,
+        "Slider": 2,
+        "Wall": 2,
+        "Light": 2,
+        "DifficultyLabelSize": 2,
+        "DifficultyName": 2,
+        "Requirement": 2,
+        "NJS": 2
+      },
+      "OverallComment": null
+    }
+  ],
+  "Comments": []
+}
