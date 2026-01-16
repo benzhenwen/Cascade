@@ -352,6 +352,12 @@ createCubeLineSpan(211, 1/32, 1.3, 1, 11.5, 0, -30, 40, 3, 0, 90, -0.6);
 createBigStick(215, 30);
 createBigStick(219, -30);
 
+// a little left stage action
+const leftStageGuysThingsBeats = [220, 221, 222, 222.25, 223]
+leftStageGuysThingsBeats.forEach(b => {
+    staticCubeLine.createSpiral(b, 1/8, 2, 1/16, 0.125, 0.5, [-8, spiral_h, spiral_d], [-ramdom_quorb(60, 120, 2), 0], [-1, 0], SCS, spiralValidator);
+});
+
 // the spiral thing that looks cool there
 staticCubeLine.createSpiral(223.75, SOR, 12, 1/64, 0, 1.25, [10, spiral_h, spiral_d], [-ramdom_quorb(2, 4, 2), 0], [-8, 0], SCS, makeCubeLineValidator(18, 18));
 staticCubeLine.createSpiral(225.5, SOR, 12, 1/64, 0, 1.5, [10, spiral_h, spiral_d], [-ramdom_quorb(2, 4, 2), 0], [1, 0], SCS, spiralValidator);
@@ -627,7 +633,7 @@ staticCubeLine.flushAllEvents();
 // oh my god were so closeeeee
 // the final spiral
 dir = 1;
-staticCubeLine.createSpiral(528, 1/7 /*4 / (54-1)*/, 7 * 16, SCR, 0, 1.3, [0, spiral_h, spiral_d + 10], [-random_spiralsMelody(2, 4, 2), 0], [1.5*dir, 0], SCS, spiralValidator, -23.25);
+staticCubeLine.createSpiral(528, 1/7 /*4 / (54-1)*/, 7 * 16 * 1.5, SCR, 0, 1.3, [0, spiral_h, spiral_d + 10], [-random_spiralsMelody(2, 4, 2), 0], [1.5*dir, 0], SCS, spiralValidator, -23.25);
 
 // and big cubes for the sake of em
 parity = false;

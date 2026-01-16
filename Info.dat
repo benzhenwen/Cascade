@@ -24,20 +24,11 @@
       "_beatmapCharacteristicName" : "Standard",
       "_difficultyBeatmaps" : [
         {
-          "_difficulty" : "Expert",
-          "_difficultyRank" : 7,
-          "_beatmapFilename" : "ExpertStandard.dat",
-          "_noteJumpMovementSpeed" : 12,
-          "_noteJumpStartBeatOffset" : 0,
-          "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
-        },
-        {
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
-          "_noteJumpMovementSpeed" : 17,
-          "_noteJumpStartBeatOffset" : -0.853,
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.808,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0
         }
